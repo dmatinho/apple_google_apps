@@ -4,5 +4,5 @@ Business Problem: The aim of this analysis is to help developers understand what
 The following datasets are available online:
   - Apple: https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
   - Google: https://www.kaggle.com/lava18/google-play-store-apps
-  This repository contains:
-  Python: Code with data exploration, Data cleaning and analysis
+This repository contains:
+  - Python: Code with data exploration, Data cleaning and analysis
